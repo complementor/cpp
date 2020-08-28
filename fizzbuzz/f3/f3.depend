@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587245768 source:p:\fizzbuzz\f3\main.cpp
+	<cstdio>
+	<cstdint>
+
